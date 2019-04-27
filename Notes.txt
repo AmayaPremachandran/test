@@ -9,3 +9,5 @@ Smoke testing.
 Interface testing.
 Regression testing.
 Beta/Acceptance testing.
+Advantage:
+The risk of failure can be reduced considerably.
