@@ -11,3 +11,6 @@ Regression testing.
 Beta/Acceptance testing.
 Advantage:
 The risk of failure can be reduced considerably.
+
+Extra use
+Reliability of software can be measured by certification or its conformation with any set technical standard. 
